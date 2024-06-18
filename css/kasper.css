@@ -91,7 +91,7 @@
         
 }
 .main-heading p {
-      - color: var(--color-paragh);
+       color: var(--color-paragh);
        width: 550px;
        margin: 0 auto 80px;
        line-height: 1.8;
