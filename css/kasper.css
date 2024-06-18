@@ -328,7 +328,7 @@
 .Design{
         padding: var(--padding) 0;
         position: relative;
-        background-image: url(/image/design-features.jpg);
+        background-image: url(../image/design-features.jpg);
         background-size: cover;
         display: flex;
         align-items: center;
@@ -517,7 +517,7 @@
 .stats{
         padding: var(--padding) 0;
         text-align: center;
-        background-image: url(/image/stats.png);
+        background-image: url(../image/stats.jpg);
         background-size: cover;
         position: relative;
 }
@@ -701,7 +701,7 @@
 /* End Skills */
 /* Start quote */
 .quote{
-        background-image: url(/image/quote.jpg);
+        background-image: url(../image/quote.jpg);
         background-size:cover;
         padding: var(--padding) 0;
         position: relative;
@@ -851,7 +851,7 @@ text-align: center;
 /* Start Email*/
 .Email{
         padding: var(--padding) 0;
-        background-image: url(/image/subscribe.jpg);
+        background-image: url(../image/subscribe.jpg);
         background-size: cover;
         position: relative;
         color: white;
@@ -1011,7 +1011,7 @@ text-align: center;
 /* Start Footer  */
 .footer{
         padding: 60px 0;
-        background-image: url(/image/subscribe.jpg);
+        background-image: url(../image/subscribe.jpg);
         background-size: cover;
         position: relative;
         margin-top: 20px;
