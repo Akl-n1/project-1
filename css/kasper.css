@@ -552,13 +552,15 @@
         }
 }
 .stats .container .box i{
-        margin-bottom: 30px;
         background-color: black;
         width: 40px;
         height: 40px;
         border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
         text-align: center;
-        align-content: center;
+        margin: 30px auto;
 }
 .stats .container .box h2{
         margin-bottom: 30px;
